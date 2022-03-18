@@ -1,0 +1,41 @@
+body{
+    background-color: #E9ECEF;
+    margin: 0;
+}
+
+/* nav bar */
+.navbar{
+    background-color: #495371;
+    height: 50px;
+    margin: 0;
+}
+
+.tablo{
+    padding-top: 10px;
+}
+
+a{
+    color: beige;
+    text-decoration: none;
+}
+
+/* jumbotron */
+.jumbotron{
+    padding-top: 50px;
+    text-align: center;
+    list-style-position: inside
+}
+
+h1{
+    color: darkmagenta;
+    font-size: 30px;
+}
+
+/* products page */
+.price{
+    background-color: #495371;
+    color: white;
+    width: 65px;
+    padding-left: 5px;
+    border-radius: 7px;
+}
